@@ -1,4 +1,4 @@
-# KafkaInOneHour
+# Kafka in one hour
 Implementation of Observer Java OOD pattern
 
 Tried to implement Publish Subscribe in one hour to mimic Kafka like behaviour using Observer OOD pattern.
