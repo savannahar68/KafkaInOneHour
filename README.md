@@ -22,7 +22,7 @@ High level description -
 4. Abstract Factory
 5. Strategy
 6. Proxy
-
+7. Singleton
 
 #### How to run this project
 
