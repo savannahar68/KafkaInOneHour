@@ -27,3 +27,5 @@ High level description -
 #### How to run this project
 
 Clone the project and run the KafkaMain.java class.
+
+![image](https://user-images.githubusercontent.com/20986069/159949432-a6fd6e41-5c20-4303-8c54-341ce68060aa.png)
